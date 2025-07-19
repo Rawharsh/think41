@@ -1,0 +1,7 @@
+.sort-bar {
+  padding: 10px;
+  background: #e8e8e8;
+}
+.sort-bar select {
+  padding: 5px;
+}
